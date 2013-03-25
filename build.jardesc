@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<jardesc>
+    <jar path="moddedSaveConverter/build/moddedSaveConverter.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/moddedSaveConverter/build.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="false" mainClassHandleIdentifier="=moddedSaveConverter/src&lt;com.rienafairefr.moddedSaveConverter{ConverterMain.java[ConverterMain" manifestLocation="/moddedSaveConverter/manifest.mf" manifestVersion="1.0" reuseManifest="true" saveManifest="true" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <file path="/moddedSaveConverter/LICENSE.txt"/>
+        <folder path="/moddedSaveConverter/images"/>
+        <javaElement handleIdentifier="=moddedSaveConverter/src"/>
+        <file path="/moddedSaveConverter/NOTICE.txt"/>
+    </selectedElements>
+</jardesc>
