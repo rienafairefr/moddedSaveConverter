@@ -1,0 +1,13 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# other files #
+*.log
+
+# Directories #
+bin/
+Anvilsrc/
